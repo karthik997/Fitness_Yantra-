@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+body {
+  font-family: 'Questrial', serif;
+}
+
+#cards {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 90px;
+  padding-right: 90px;
+  background: lavender;
+}
+
+.card {
+  border: 0px;
+  background: white;
+}
+
+#graph {
+  background: khaki;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#graph img {
+  width: 100%;
+}
+
+.col-12 {
+  margin-bottom: 50px;
+}
